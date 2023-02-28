@@ -8,7 +8,7 @@ Le site web PNC Industry est plus précisément un portfolio photographique qui 
 Le site web PNC Industry est également développé avec une forte utilisation de JavaScript et de sa bibliothèque jQuery.
 Il est entièrement responsive, ce qui signifie qu'il est conçu pour s'adapter automatiquement à tout type d'écran.
 
-![](https://github.com/JCharles28/PNCWebsite/tree/main/screens/2.png?raw=true)
+![alt text](https://github.com/JCharles28/PNCWebsite/tree/main/screens/2.png?raw=true)
 
 Des effets de survol ont été ajoutés à certaines images pour donner une impression de légèreté et de fluidité lors de la navigation sur le site tout en donnant une description de le nom et l'activité du modèle concerné.
 
