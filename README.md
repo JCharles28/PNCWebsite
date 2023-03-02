@@ -4,7 +4,6 @@ Le site web PNC Industry est plus précisément un portfolio photographique qui 
 
 ![](screens/1.png?raw=true)
 
-
 Le site web PNC Industry est également développé avec une forte utilisation de JavaScript et de sa bibliothèque jQuery.
 Il est entièrement responsive, ce qui signifie qu'il est conçu pour s'adapter automatiquement à tout type d'écran.
 
@@ -12,7 +11,7 @@ Il est entièrement responsive, ce qui signifie qu'il est conçu pour s'adapter 
 
 Des effets de survol ont été ajoutés à certaines images pour donner une impression de légèreté et de fluidité lors de la navigation sur le site tout en donnant une description de le nom et l'activité du modèle concerné.
 
-Chaque portrait est soigneusement sélectionné pour mettre en valeur la personnalité et les compétences de chaque individu, tout en reflétant l'esthétique artistique de mon travail photographique.
+Chaque portrait est soigneusement sélectionné pour mettre en valeur la personnalité, tout en reflétant l'esthétique artistique de mon travail photographique.
 
 ![](screens/3-2.jpeg?raw=true)
 
