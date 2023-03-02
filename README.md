@@ -2,7 +2,7 @@
 
 Le site web PNC Industry est plus précisément un portfolio photographique qui regroupe des portraits de différentes personnes exerçant des métiers variés tels que le coaching, les sports de combat ou encore le mannequinat.
 
-![alt text](https://github.com/JCharles28/PNCWebsite/tree/main/screens/1.png?raw=true)
+![](screens/1.png?raw=true)
 
 
 Le site web PNC Industry est également développé avec une forte utilisation de JavaScript et de sa bibliothèque jQuery.
